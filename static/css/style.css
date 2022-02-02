@@ -301,7 +301,7 @@ header {
 .portfolio {
     display: grid;
     padding: 2.5em 0;
-    height: 100vh;
+    height: 100%;
     overflow: hidden;
     align-items: stretch;
 }
